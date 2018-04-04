@@ -1,3 +1,6 @@
 this is my first file for GIT practice
 
 here is a line added for master
+
+adding this line for branch 1
+
